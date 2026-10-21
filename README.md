@@ -1,5 +1,3 @@
-<div align="center">
-
 <h1>Swati Swagatika Sahoo</h1>
 
 <p>
@@ -7,8 +5,8 @@
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/[your-linkedin-profile]">LinkedIn</a> •
-  <a href="mailto:[your.email@example.com]">Email</a>
+  <a href="https://www.linkedin.com/in/swati-swagatika-sahoo/">LinkedIn</a> •
+  <a href="mailto:swatiswagatikasahoo32@gmail.com">Email</a>
 </p>
 
 </div>
@@ -83,20 +81,9 @@ I’m currently exploring opportunities in Data Science, ML, and AI internships,
 
 ---
 
-## Current Focus
-
-- Learning and building practical AI projects
-- Exploring LLM and agentic AI workflows
-- Strengthening fundamentals in ML, DL, and Data Science
-- Applying AI to real-world problems
-
----
-
 ## Open to
 
-- Data Science internships
-- Machine Learning internships
-- AI internships
+- Data Science & AI/ML internships
 - Research and project collaborations
 - Open-source contributions
 
@@ -104,5 +91,5 @@ I’m currently exploring opportunities in Data Science, ML, and AI internships,
 
 ## Contact
 
-- LinkedIn: [your-linkedin-profile]
-- Email: [your.email@example.com]
+- LinkedIn: https://www.linkedin.com/in/swati-swagatika-sahoo/
+- Email: swatiswagatikasahoo32@gmail.com
