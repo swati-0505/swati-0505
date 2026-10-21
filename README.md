@@ -13,11 +13,10 @@
 
 ## About Me
 
-I’m a final-year B.Tech Computer Science student with a strong interest in Data Science, Machine Learning, Deep Learning, NLP, Computer Vision, LLMs, and Agentic AI.
+Hi Everyone!
+I’m Swati, final-year B.Tech Computer Science student with a strong interest in Data Science & AI.
 
-I enjoy working on projects that combine data, algorithms, and real-world problem solving. My focus is on building intelligent systems that can learn from data, automate decision-making, and create practical impact.
-
-I’m currently exploring opportunities in Data Science, ML, and AI internships, and I’m also interested in contributing to meaningful open-source work.
+My interest lies in solving real-world problems through research-driven AI and machine learning, with a strong focus on impact, innovation, and continuous learning. Open to Data Science, ML, and AI internship opportunities.
 
 ---
 
