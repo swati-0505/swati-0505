@@ -1,73 +1,108 @@
 <div align="center">
 
-  <img src="https://github.com/swati-0505.png" width="160" alt="GitHub Profile" />
+<h1>Swati Swagatika Sahoo</h1>
 
-  <h1>Swati Swagatika Sahoo</h1>
+<p>
+  <strong>Building AI systems that turn data into decisions.</strong>
+</p>
 
-  <p>
-    <strong>Building AI systems that turn data into decisions.</strong>
-  </p>
-
-  <p>
-    <a href="https://www.linkedin.com/in/[your-linkedin-profile]">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:[your.email@example.com]">
-      <img alt="Email" src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </p>
-
-  <p>
-    <strong>Final-year B.Tech CSE student</strong> •
-    <strong>Data Science</strong> •
-    <strong>Machine Learning</strong> •
-    <strong>Deep Learning</strong> •
-    <strong>NLP</strong> •
-    <strong>Computer Vision</strong> •
-    <strong>LLMs</strong> •
-    <strong>Agentic AI</strong>
-  </p>
+<p>
+  <a href="https://www.linkedin.com/in/[your-linkedin-profile]">LinkedIn</a> •
+  <a href="mailto:[your.email@example.com]">Email</a>
+</p>
 
 </div>
 
 ## About Me
 
-I’m a final-year B.Tech Computer Science student focused on Data Science, Machine Learning, Deep Learning, NLP, Computer Vision, LLMs, and Agentic AI. My work spans predictive modeling, AI-powered applications, and intelligent systems that combine retrieval, automation, and real-world problem solving.
+I’m a final-year B.Tech Computer Science student with a strong interest in Data Science, Machine Learning, Deep Learning, NLP, Computer Vision, LLMs, and Agentic AI.
 
-I’m actively exploring opportunities in Data Science, ML, and AI internships, and I’m also interested in contributing to meaningful open-source projects.
+I enjoy working on projects that combine data, algorithms, and real-world problem solving. My focus is on building intelligent systems that can learn from data, automate decision-making, and create practical impact.
+
+I’m currently exploring opportunities in Data Science, ML, and AI internships, and I’m also interested in contributing to meaningful open-source work.
 
 ---
 
-## Skill Map
+## Core Interests
 
-```mermaid
-mindmap
-  root((AI & Data Science))
-    Data Science
-      EDA
-      Feature Engineering
-      Churn Analysis
-      Business Insights
-    Machine Learning
-      Classification
-      Clustering
-      Prediction
-      Model Evaluation
-    Deep Learning
-      Reinforcement Learning
-      DQN
-      Game Agents
-    NLP & LLMs
-      Summarization
-      Transformers
-      RAG
-      LLM-powered Apps
-    Computer Vision
-      OpenCV
-      Face Recognition
-      Voice Biometrics
-    Agentic AI
-      AI Workflows
-      Tool Use
-      Event Assistant
-      Smart Automation
+- Data Science
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Computer Vision
+- Large Language Models
+- Agentic AI
+- AI-powered applications
+
+---
+
+## Skills
+
+### Data Science
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Data Cleaning and Preprocessing
+- Statistical Analysis
+- Business Insight Generation
+
+### Machine Learning
+- Classification
+- Clustering
+- Regression
+- Model Evaluation
+- Predictive Modeling
+
+### Deep Learning
+- Neural Networks
+- CNNs
+- Transformers
+- Reinforcement Learning
+- Model Training and Optimization
+
+### NLP & LLMs
+- Text Processing
+- Summarization
+- Transformers
+- RAG-based systems
+- Prompt Engineering
+- LLM-powered applications
+
+### Computer Vision
+- OpenCV
+- Image Processing
+- Face Recognition
+- Biometric Analysis
+- Computer Vision Pipelines
+
+### Agentic AI
+- AI workflows
+- Tool use
+- Automation
+- Intelligent assistants
+- Smart decision systems
+
+---
+
+## Current Focus
+
+- Learning and building practical AI projects
+- Exploring LLM and agentic AI workflows
+- Strengthening fundamentals in ML, DL, and Data Science
+- Applying AI to real-world problems
+
+---
+
+## Open to
+
+- Data Science internships
+- Machine Learning internships
+- AI internships
+- Research and project collaborations
+- Open-source contributions
+
+---
+
+## Contact
+
+- LinkedIn: [your-linkedin-profile]
+- Email: [your.email@example.com]
